@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fourat01
+- 👋 Hi, I’m Fourat jebali
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning c/c++ programming languages
 - 📫 How to reach me :
