@@ -1,10 +1,8 @@
-- 👋 Hi, I’m Fourat jebali
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning c/c++ programming languages
-- 📫 How to reach me :
+- Hi, I’m Fourat jebali
+- I’m interested in programming
+- How to reach me :
 -   email : contact@fouratjbeli.me
 -   whatsapp : +21626281230
--   facebook : Fourat Jbeli 
 
 <!---
 fourat01/fourat01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
