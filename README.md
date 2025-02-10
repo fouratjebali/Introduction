@@ -1,7 +1,7 @@
 - Hi, I’m Fourat jebali
 - I’m interested in programming
 - How to reach me :
--   email : contact@fouratjbeli.me
+-   email : fouratcs@gmail.com
 -   whatsapp : +21626281230
 
 <!---
